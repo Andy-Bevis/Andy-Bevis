@@ -1,4 +1,4 @@
-[Cover](https://github.com/Andy-Bevis/Andy-Bevis/master/img/headband.jpg
+[Cover](https://github.com/Andy-Bevis/Andy-Bevis/main/img/headband.jpg
 
 ### Hi there 👋
 
