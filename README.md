@@ -1,11 +1,11 @@
 
-### <div align="center"> Hi i'm Andy 👋 </div>
+# ** <div align="center"> Hi i'm Andy 👋 </div>
 
-----------
+<hr>
 
-**A student at O'Clock School (spe javascript/REACT)**
+## **A student at O'Clock School (spe javascript/REACT)**
 
-----------
+<hr>
 
 My competence :
 - HTML5, CSS3
@@ -16,6 +16,8 @@ My competence :
 - Bootstrap
 - WordPress
 - Git/GitHub
+
+<hr>
 
 - 📫 How to reach me : <a href="www.linkedin.com/in/andy-bevis">My Linkedin</a>
 
