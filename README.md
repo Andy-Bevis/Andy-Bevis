@@ -5,7 +5,7 @@
 ## **A student at O'Clock School (spe javascript / REACT)**
 
 
-My competence :
+### My competence :
 - HTML5, CSS3
 - PHP, Javascript
 - My SQL
