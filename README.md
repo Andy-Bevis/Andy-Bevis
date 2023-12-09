@@ -2,7 +2,7 @@
 #  <div align="center"> Hi i'm Andy 👋 </div>
 
 
-## **A student at O'Clock School (spe javascript / REACT)**
+## **A student at O'Clock School (spe Javascript / REACT)**
 
 
 ### My competence :
@@ -17,7 +17,7 @@
 
 
 
-### - 📫 How to reach me : <a href="www.linkedin.com/in/andy-bevis">Linkedin</a>
+### 📫 How to reach me : <a href="www.linkedin.com/in/andy-bevis">Linkedin</a>
 
 <!-- ![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg) -->
 <!--
