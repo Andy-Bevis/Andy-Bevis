@@ -2,7 +2,7 @@
 #  <div align="center"> Hi i'm Andy 👋 </div>
 
 
-## **A student at O'Clock School (spe javascript/REACT)**
+## **A student at O'Clock School (spe javascript / REACT)**
 
 
 My competence :
@@ -14,6 +14,7 @@ My competence :
 - Bootstrap
 - WordPress
 - Git/GitHub
+
 
 
 - 📫 How to reach me : <a href="www.linkedin.com/in/andy-bevis">My Linkedin</a>
