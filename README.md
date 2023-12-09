@@ -1,4 +1,3 @@
-<!-- ![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg)
 
 ### Hi i'm Andy 👋
 
@@ -16,6 +15,7 @@ My competence :
 
 📫 How to reach me : www.linkedin.com/in/andy-bevis
 
+<!-- ![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg) -->
 <!--
 **Andy-Bevis/Andy-Bevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
