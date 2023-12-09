@@ -1,6 +1,20 @@
-![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg)
+<!-- ![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg)
 
-### Hi there 👋
+### Hi i'm Andy 👋
+
+A student at O'Clock School (spe javascript/REACT)
+
+My competence :
+- HTML5, CSS3
+- PHP, Javascript
+- My SQL
+- Laravel
+- React
+- Bootstrap
+- WordPress
+- Git/GitHub
+
+📫 How to reach me : www.linkedin.com/in/andy-bevis
 
 <!--
 **Andy-Bevis/Andy-Bevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
