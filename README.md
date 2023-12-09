@@ -1,11 +1,11 @@
 
-[center] ### Hi i'm Andy 👋 [/center]
+### <div align="center"> Hi i'm Andy 👋 </div>
 
---------------------
+----------
 
 **A student at O'Clock School (spe javascript/REACT)**
 
---------------------
+----------
 
 My competence :
 - HTML5, CSS3
@@ -17,7 +17,7 @@ My competence :
 - WordPress
 - Git/GitHub
 
-- 📫 How to reach me : www.linkedin.com/in/andy-bevis
+- 📫 How to reach me : <a href="www.linkedin.com/in/andy-bevis">My Linkedin</a>
 
 <!-- ![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg) -->
 <!--
