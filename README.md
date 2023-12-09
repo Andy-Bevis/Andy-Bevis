@@ -1,7 +1,11 @@
 
-### Hi i'm Andy 👋
+[center] ### Hi i'm Andy 👋 [/center]
 
-A student at O'Clock School (spe javascript/REACT)
+--------------------
+
+**A student at O'Clock School (spe javascript/REACT)**
+
+--------------------
 
 My competence :
 - HTML5, CSS3
@@ -13,7 +17,7 @@ My competence :
 - WordPress
 - Git/GitHub
 
-📫 How to reach me : www.linkedin.com/in/andy-bevis
+- 📫 How to reach me : www.linkedin.com/in/andy-bevis
 
 <!-- ![Cover](https://github.com/Andy-Bevis/Andy-Bevis/blob/main/img/headband.jpg) -->
 <!--
