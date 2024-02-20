@@ -7,10 +7,11 @@
 
 ### My competence :
 - HTML5, CSS3
-- PHP, Javascript
-- My SQL
+- Javascript, Typescript
+- PHP, My SQL
 - Laravel
-- React
+- React, Redux
+- Tailwind
 - Bootstrap
 - WordPress
 - Git/GitHub    
