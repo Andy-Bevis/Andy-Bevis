@@ -2,7 +2,7 @@
 #  <div align="center"> Hi i'm Andy 👋 </div>
 
 
-## **A student at O'Clock School (spe Javascript / REACT)**
+## **A developer fullstack (spe Javascript / REACT)**
 
 
 ### My competence :
@@ -14,8 +14,10 @@
 - Tailwind
 - Bootstrap
 - WordPress
-- Git/GitHub    
+- Git/GitHub
+  
 
+#### I'm looking to collaborate on dynamic project !
 
 
 ### 📫 How to reach me : <a href="www.linkedin.com/in/andy-bevis">Linkedin</a>
