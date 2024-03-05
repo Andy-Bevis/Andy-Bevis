@@ -5,7 +5,7 @@
 ## **A developer fullstack (spe Javascript / REACT)**
 
 
-### My competence :
+### My competencies :
 - HTML5, CSS3
 - Javascript, Typescript
 - PHP, My SQL
